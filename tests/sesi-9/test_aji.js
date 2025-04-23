@@ -23,3 +23,4 @@ describe('Ini Test Suite', function() {
         await driver.get('https://www.gmail.com');
         await driver.quit();
     });
+});
